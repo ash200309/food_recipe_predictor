@@ -1,11 +1,11 @@
-numpy
+numpy==1.24.3
 scipy
-matplotlib
-torch
-torchvision
+matplotlib==3.7.1
+torch==2.0.1
+torchvision==0.15.2
 nltk
 Pillow
-tqdm
+tqdm==4.65.0
 lmdb
 tensorflow
 tensorboardX
